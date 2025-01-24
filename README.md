@@ -1,3 +1,3 @@
 Teste
 
-<img src="./imagens/favicon.pngimages/" alt="Exemplo imagem">
+<img src="./imagens/favicon.png" alt="Exemplo imagem">
