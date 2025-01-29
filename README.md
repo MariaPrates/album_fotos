@@ -5,7 +5,7 @@
 
 ## 📃Descrição: 
 
-Página web criada em formato de galeria de fotos como estados brasileiros como protagonistas e algumas das suas características marcantes.
+Página web criada em formato de galeria de fotos com estados brasileiros como protagonistas e algumas das suas características marcantes.
   
 
 ## 🛠 Tecnologias:
